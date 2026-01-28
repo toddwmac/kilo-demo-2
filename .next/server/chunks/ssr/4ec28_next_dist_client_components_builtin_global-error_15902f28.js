@@ -1,0 +1,3 @@
+module.exports=[97469,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(9986);a.n(d("[project]/OneDrive/Dev_Projects/scratch-dev/kilo-demo-2/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},34897,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(9986);a.n(d("[project]/OneDrive/Dev_Projects/scratch-dev/kilo-demo-2/node_modules/next/dist/client/components/builtin/global-error.js"))},46370,a=>{"use strict";a.i(97469);var b=a.i(34897);a.n(b)}];
+
+//# sourceMappingURL=4ec28_next_dist_client_components_builtin_global-error_15902f28.js.map

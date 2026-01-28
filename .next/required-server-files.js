@@ -101,7 +101,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\toddw",
+    "outputFileTracingRoot": "C:\\Users\\toddw\\OneDrive\\Dev_Projects\\scratch-dev\\kilo-demo-2",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -294,12 +294,12 @@ self.__SERVER_FILES_MANIFEST={
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\toddw"
+      "root": "C:\\Users\\toddw\\OneDrive\\Dev_Projects\\scratch-dev\\kilo-demo-2"
     },
     "distDirRoot": "dist"
   },
   "appDir": "C:\\Users\\toddw\\OneDrive\\Dev_Projects\\scratch-dev\\kilo-demo-2",
-  "relativeAppDir": "OneDrive\\Dev_Projects\\scratch-dev\\kilo-demo-2",
+  "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
     ".next\\server\\pages-manifest.json",

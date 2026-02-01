@@ -229,25 +229,6 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Introduction */}
-      <section className="py-12 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-4xl mx-auto text-center">
-          <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
-            <h2 className="text-2xl sm:text-3xl font-semibold text-emerald-400 mb-4">
-              You&apos;ve Got This!
-            </h2>
-            <p className="text-lg text-slate-300 leading-relaxed">
-              Welcome! This guide is designed to empower you to quickly solve
-              the most common technical issues you might encounter with our golf
-              simulators. We know that technology can sometimes be tricky, but
-              don&apos;t worry. Most problems have simple, step-by-step
-              solutions that you can perform yourself in just a few minutes.
-              Let&apos;s get you back to your game!
-            </p>
-          </div>
-        </div>
-      </section>
-
       {/* Quick Navigation */}
       <section className="pb-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
